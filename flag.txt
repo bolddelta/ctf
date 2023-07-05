@@ -1,0 +1,2 @@
+flag{th!s_!s_n0t_the_flag}
+Don't even try to submit this as flag on ctf :D :P 
